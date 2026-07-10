@@ -1,0 +1,547 @@
+Team,Position,Player_Name,Status
+Atlanta Hawks,C,Onyeka Okongwu,Active
+Atlanta Hawks,PF,Jalen Johnson,Active
+Atlanta Hawks,SF,Dyson Daniels,Active
+Atlanta Hawks,SG,CJ McCollum,Active
+Atlanta Hawks,PG,Nickeil Alexander-Walker,Active
+Atlanta Hawks,BENCH,Zaccharie Risacher,Active
+Atlanta Hawks,BENCH,Buddy Hield,Active
+Atlanta Hawks,BENCH,Devin Carter,Active
+Atlanta Hawks,BENCH,Aaron Wiggins,Active
+Atlanta Hawks,BENCH,Asa Newell,Active
+Atlanta Hawks,BENCH,Mouhamed Gueye,Active
+Atlanta Hawks,BENCH,Corey Kispert,Active
+Atlanta Hawks,BENCH,Kingston Flemings,Active
+Atlanta Hawks,BENCH,Zuby Ejiofor,Active
+Atlanta Hawks,BENCH,Keshon Gilbert,Active
+Boston Celtics,C,Mitchell Robinson,Active
+Boston Celtics,PF,Jayson Tatum,Active
+Boston Celtics,SF,Paul George,Active
+Boston Celtics,SG,Derrick White,Active
+Boston Celtics,PG,Payton Pritchard,Active
+Boston Celtics,BENCH,Sam Hauser,Active
+Boston Celtics,BENCH,Baylor Scheierman,Active
+Boston Celtics,BENCH,Neemias Queta,Active
+Boston Celtics,BENCH,Mike Conley,Active
+Boston Celtics,BENCH,Hugo Gonzalez,Active
+Boston Celtics,BENCH,Luka Garza,Active
+Boston Celtics,BENCH,Jordan Walsh,Active
+Boston Celtics,BENCH,Chris Cenac Jr.,Active
+Boston Celtics,BENCH,John Tonje,Active
+Boston Celtics,BENCH,Amari Williams,Active
+Charlotte Hornets,C,Naz Reid,Active
+Charlotte Hornets,PF,Grant Williams,Active
+Charlotte Hornets,SF,Brandon Miller,Active
+Charlotte Hornets,SG,Kon Knueppel,Active
+Charlotte Hornets,PG,LaMelo Ball,Active
+Charlotte Hornets,BENCH,Coby White,Active
+Charlotte Hornets,BENCH,Dorian Finney-Smith,Active
+Charlotte Hornets,BENCH,Ryan Kalkbrenner,Active
+Charlotte Hornets,BENCH,Tre Mann,Active
+Charlotte Hornets,BENCH,Liam McNeeley,Active
+Charlotte Hornets,BENCH,Tidjane Salaun,Active
+Charlotte Hornets,BENCH,Moussa Diabate,Active
+Charlotte Hornets,BENCH,Sion James,Active
+Charlotte Hornets,BENCH,Christian Anderson,Active
+Charlotte Hornets,BENCH,Hannes Steinbach,Active
+Chicago Bulls,C,Nic Claxton,Active
+Chicago Bulls,PF,Caleb Wilson,Active
+Chicago Bulls,SF,Matas Buzelis,Active
+Chicago Bulls,SG,Norman Powell,Active
+Chicago Bulls,PG,Josh Giddey,Active
+Chicago Bulls,BENCH,Isaac Okoro,Active
+Chicago Bulls,BENCH,Rob Dillingham,Active
+Chicago Bulls,BENCH,Tre Jones,Active
+Chicago Bulls,BENCH,Zach Collins,Active
+Chicago Bulls,BENCH,Jalen Smith,Active
+Chicago Bulls,BENCH,Leonard Miller,Active
+Chicago Bulls,BENCH,Nick Richards,Active
+Chicago Bulls,BENCH,Patrick Williams,Active
+Chicago Bulls,BENCH,Noa Essengue,Active
+Chicago Bulls,BENCH,Dailyn Swain,Active
+Cleveland Cavaliers,C,Jarrett Allen,Active
+Cleveland Cavaliers,PF,Evan Mobley,Active
+Cleveland Cavaliers,SF,LeBron James,Active
+Cleveland Cavaliers,SG,Donovan Mitchell,Active
+Cleveland Cavaliers,PG,James Harden,Active
+Cleveland Cavaliers,BENCH,Dennis Schröder,Active
+Cleveland Cavaliers,BENCH,Max Strus,Active
+Cleveland Cavaliers,BENCH,Jaylon Tyson,Active
+Cleveland Cavaliers,BENCH,Sam Merrill,Active
+Cleveland Cavaliers,BENCH,Craig Porter Jr.,Active
+Cleveland Cavaliers,BENCH,Thomas Bryant,Active
+Cleveland Cavaliers,BENCH,Tyrese Proctor,Active
+Cleveland Cavaliers,BENCH,Meleek Thomas,Active
+Cleveland Cavaliers,BENCH,Riley Minix,Active
+Cleveland Cavaliers,BENCH,Nae'Qwan Tomlin,Active
+Dallas Mavericks,C,Dereck Lively II,Active
+Dallas Mavericks,PF,Cooper Flagg,Active
+Dallas Mavericks,SF,Klay Thompson,Active
+Dallas Mavericks,SG,Kyrie Irving,Active
+Dallas Mavericks,PG,Ryan Nembhard,Active
+Dallas Mavericks,BENCH,Daniel Gafford,Active
+Dallas Mavericks,BENCH,P.J. Washington,Active
+Dallas Mavericks,BENCH,Naji Marshall,Active
+Dallas Mavericks,BENCH,Max Christie,Active
+Dallas Mavericks,BENCH,Caleb Martin,Active
+Dallas Mavericks,BENCH,Marcus Sasser,Active
+Dallas Mavericks,BENCH,Morez Johnson Jr.,Active
+Dallas Mavericks,BENCH,Sergio de Larrea,Active
+Dallas Mavericks,BENCH,Tyler Smith,Active
+Dallas Mavericks,BENCH,Brandon Williams,Active
+Denver Nuggets,C,Nikola Jokic,Active
+Denver Nuggets,PF,Aaron Gordon,Active
+Denver Nuggets,SF,Cameron Johnson,Active
+Denver Nuggets,SG,Christian Braun,Active
+Denver Nuggets,PG,Jamal Murray,Active
+Denver Nuggets,BENCH,Bruce Brown,Active
+Denver Nuggets,BENCH,Tyus Jones,Active
+Denver Nuggets,BENCH,DaRon Holmes II,Active
+Denver Nuggets,BENCH,Julian Strawther,Active
+Denver Nuggets,BENCH,Peyton Watson,Active
+Denver Nuggets,BENCH,Zeke Nnaji,Active
+Denver Nuggets,BENCH,Marvin Bagley III,Active
+Denver Nuggets,BENCH,Bryce Hopkins,Active
+Denver Nuggets,BENCH,Trevon Brazile,Active
+Denver Nuggets,BENCH,Spencer Jones,Active
+Detroit Pistons,C,Jalen Duren,Active
+Detroit Pistons,PF,John Collins,Active
+Detroit Pistons,SF,Ausar Thompson,Active
+Detroit Pistons,SG,Duncan Robinson,Active
+Detroit Pistons,PG,Cade Cunningham,Active
+Detroit Pistons,BENCH,Ronald Holland II,Active
+Detroit Pistons,BENCH,Isaiah Joe,Active
+Detroit Pistons,BENCH,Kevin Huerter,Active
+Detroit Pistons,BENCH,Taurean Prince,Active
+Detroit Pistons,BENCH,Paul Reed,Active
+Detroit Pistons,BENCH,Gary Harris,Active
+Detroit Pistons,BENCH,Daniss Jenkins,Active
+Detroit Pistons,BENCH,Ebuka Okorie,Active
+Detroit Pistons,BENCH,Isaac Jones,Active
+Detroit Pistons,BENCH,Elijah Harkless,Active
+Golden State Warriors,C,Kristaps Porzingis,Active
+Golden State Warriors,PF,Draymond Green,Active
+Golden State Warriors,SF,Yaxel Lendeborg,Active
+Golden State Warriors,SG,Jimmy Butler III,Active
+Golden State Warriors,PG,Stephen Curry,Active
+Golden State Warriors,BENCH,Brandin Podzimienzki,Active
+Golden State Warriors,BENCH,Moses Moody,Active
+Golden State Warriors,BENCH,Al Horford,Active
+Golden State Warriors,BENCH,Gary Payton II,Active
+Golden State Warriors,BENCH,De'Anthony Melton,Active
+Golden State Warriors,BENCH,Gui Santos,Active
+Golden State Warriors,BENCH,Will Richard,Active
+Golden State Warriors,BENCH,Charles Bassey,Active
+Golden State Warriors,BENCH,Seth Curry,Active
+Golden State Warriors,BENCH,Lajae Jones,Active
+Houston Rockets,C,Alperen Sengun,Active
+Houston Rockets,PF,Jabari Smith Jr.,Active
+Houston Rockets,SF,Kevin Durant,Active
+Houston Rockets,SG,Amen Thompson,Active
+Houston Rockets,PG,Fred VanVleet,Active
+Houston Rockets,BENCH,Reed Sheppard,Active
+Houston Rockets,BENCH,Tari Eason,Active
+Houston Rockets,BENCH,Marcus Smart,Active
+Houston Rockets,BENCH,Steven Adams,Active
+Houston Rockets,BENCH,Clint Capela,Active
+Houston Rockets,BENCH,Bogdan Bogdanovic,Active
+Houston Rockets,BENCH,Aaron Holiday,Active
+Houston Rockets,BENCH,Isaiah Crawford,Active
+Houston Rockets,BENCH,JD Davison,Active
+Houston Rockets,BENCH,Tristen Newton,Active
+Indiana Pacers,C,Ivica Zubac,Active
+Indiana Pacers,PF,Pascal Siakam,Active
+Indiana Pacers,SF,Aaron Nesmith,Active
+Indiana Pacers,SG,Andrew Nembhard,Active
+Indiana Pacers,PG,Tyrese Haliburton,Active
+Indiana Pacers,BENCH,Bennedict Mathurin,Active
+Indiana Pacers,BENCH,Obi Toppin,Active
+Indiana Pacers,BENCH,Jarace Walker,Active
+Indiana Pacers,BENCH,T.J. McConnell,Active
+Indiana Pacers,BENCH,Kelly Oubre Jr.,Active
+Indiana Pacers,BENCH,Jay Huff,Active
+Indiana Pacers,BENCH,Ben Sheppard,Active
+Indiana Pacers,BENCH,Braden Smith,Active
+Indiana Pacers,BENCH,Taelon Peter,Active
+Indiana Pacers,BENCH,Johnny Furphy,Active
+Los Angeles Clippers,C,Brook Lopez,Active
+Los Angeles Clippers,PF,Rui Hachimura,Active
+Los Angeles Clippers,SF,Kawhi Leonard,Active
+Los Angeles Clippers,SG,Derrick Jones Jr.,Active
+Los Angeles Clippers,PG,Darius Garland,Active
+Los Angeles Clippers,BENCH,Bennedict Mathurin,Active
+Los Angeles Clippers,BENCH,Kris Dunn,Active
+Los Angeles Clippers,BENCH,Isaiah Jackson,Active
+Los Angeles Clippers,BENCH,Jordan Miller,Active
+Los Angeles Clippers,BENCH,Kobe Sanders,Active
+Los Angeles Clippers,BENCH,Cam Christie,Active
+Los Angeles Clippers,BENCH,Yanic Konan Niederhauser,Active
+Los Angeles Clippers,BENCH,Keaton Wagler,Active
+Los Angeles Clippers,BENCH,Nick Martinelli,Active
+Los Angeles Clippers,BENCH,Sean Pedulla,Active
+Los Angeles Lakers,C,Walker Kessler,Active
+Los Angeles Lakers,PF,Jarred Vanderbilt,Active
+Los Angeles Lakers,SF,Luka Dončić,Active
+Los Angeles Lakers,SG,Austin Reaves,Active
+Los Angeles Lakers,PG,Collin Sexton,Active
+Los Angeles Lakers,BENCH,Quentin Grimes,Active
+Los Angeles Lakers,BENCH,Dalton Knecht,Active
+Los Angeles Lakers,BENCH,Jake LaRavia,Active
+Los Angeles Lakers,BENCH,Kevon Looney,Active
+Los Angeles Lakers,BENCH,Sandro Mamukelashvili,Active
+Los Angeles Lakers,BENCH,Jaden Hardy,Active
+Los Angeles Lakers,BENCH,Bronny James,Active
+Los Angeles Lakers,BENCH,Adou Thiero,Active
+Los Angeles Lakers,BENCH,Cameron Carr,Active
+Los Angeles Lakers,BENCH,Peter Suder,Active
+Memphis Grizzlies,C,Zach Edey,Active
+Memphis Grizzlies,PF,Jerami Grant,Active
+Memphis Grizzlies,SF,Jaylen Wells,Active
+Memphis Grizzlies,SG,Cedric Coward,Active
+Memphis Grizzlies,PG,Ty Jerome,Active
+Memphis Grizzlies,BENCH,Santi Aldama,Active
+Memphis Grizzlies,BENCH,DAngelo Russell,Active
+Memphis Grizzlies,BENCH,Cam Spencer,Active
+Memphis Grizzlies,BENCH,GG Jackson,Active
+Memphis Grizzlies,BENCH,Kentavious Caldwell-Pope,Active
+Memphis Grizzlies,BENCH,Karim Lopez,Active
+Memphis Grizzlies,BENCH,Scotty Pippen Jr.,Active
+Memphis Grizzlies,BENCH,Isaiah Stewart,Active
+Memphis Grizzlies,BENCH,Taylor Hendricks,Active
+Memphis Grizzlies,BENCH,Quinten Post,Active
+Miami Heat,C,Bam Adebayo,Active
+Miami Heat,PF,Giannis Antetokounmpo,Active
+Miami Heat,SF,Andrew Wiggins,Active
+Miami Heat,SG,Tim Hardaway Jr.,Active
+Miami Heat,PG,Davion Mitchell,Active
+Miami Heat,BENCH,Bobby Portis,Active
+Miami Heat,BENCH,Nikola Jović,Active
+Miami Heat,BENCH,Pelle Larsson,Active
+Miami Heat,BENCH,Dru Smith,Active
+Miami Heat,BENCH,Simone Fontecchio,Active
+Miami Heat,BENCH,Keshad Johnson,Active
+Miami Heat,BENCH,Ryan Conwell,Active
+Miami Heat,BENCH,Tre Donaldson,Active
+Miami Heat,BENCH,Vladislav Goldin,Active
+Miami Heat,BENCH,Myron Gardner,Active
+Milwaukee Bucks,C,Myles Turner,Active
+Milwaukee Bucks,PF,Kyle Kuzma,Active
+Milwaukee Bucks,SF,Jaime Jaquez Jr.,Active
+Milwaukee Bucks,SG,Tyler Herro,Active
+Milwaukee Bucks,PG,Kevin Porter Jr.,Active
+Milwaukee Bucks,BENCH,Caris LeVert,Active
+Milwaukee Bucks,BENCH,Kel'el Ware,Active
+Milwaukee Bucks,BENCH,AJ Green,Active
+Milwaukee Bucks,BENCH,Ryan Rollins,Active
+Milwaukee Bucks,BENCH,Ousmane Dieng,Active
+Milwaukee Bucks,BENCH,Kam Jones,Active
+Milwaukee Bucks,BENCH,Kasparas Jakucionis,Active
+Milwaukee Bucks,BENCH,Brayden Burries,Active
+Milwaukee Bucks,BENCH,Nate Ament,Active
+Milwaukee Bucks,BENCH,Bogoljub Markovic,Active
+Minnesota Timberwolves,C,Rudy Gobert,Active
+Minnesota Timberwolves,PF,Julius Randle,Active
+Minnesota Timberwolves,SF,Jaden McDaniels,Active
+Minnesota Timberwolves,SG,Anthony Edwards,Active
+Minnesota Timberwolves,PG,LaMelo Ball,Active
+Minnesota Timberwolves,BENCH,Naz Reid,Active
+Minnesota Timberwolves,BENCH,Donte DiVincenzo,Active
+Minnesota Timberwolves,BENCH,Terrence Shannon Jr.,Active
+Minnesota Timberwolves,BENCH,Ayo Dosunmu,Active
+Minnesota Timberwolves,BENCH,Jaylen Clark,Active
+Minnesota Timberwolves,BENCH,Josh Green,Active
+Minnesota Timberwolves,BENCH,Bones Hyland,Active
+Minnesota Timberwolves,BENCH,Joan Beringer,Active
+Minnesota Timberwolves,BENCH,Isaiah Evans,Active
+Minnesota Timberwolves,BENCH,Zyon Pullin,Active
+Brooklyn Nets,C,Moritz Wagner,Active
+Brooklyn Nets,PF,Julius Randle,Active
+Brooklyn Nets,SF,Michael Porter Jr.,Active
+Brooklyn Nets,SG,Keon Ellis,Active
+Brooklyn Nets,PG,Egor Demin,Active
+Brooklyn Nets,BENCH,Ben Saraf,Active
+Brooklyn Nets,BENCH,Noah Clowney,Active
+Brooklyn Nets,BENCH,Day'Ron Sharpe,Active
+Brooklyn Nets,BENCH,Terance Mann,Active
+Brooklyn Nets,BENCH,Ziaire Williams,Active
+Brooklyn Nets,BENCH,Danny Wolf,Active
+Brooklyn Nets,BENCH,Jalen Wilson,Active
+Brooklyn Nets,BENCH,Mikel Brown Jr.,Active
+Brooklyn Nets,BENCH,Joshua Jefferson,Active
+Brooklyn Nets,BENCH,Tyson Etienne,Active
+New Orleans Pelicans,C,Derik Queen,Active
+New Orleans Pelicans,PF,Zion Williamson,Active
+New Orleans Pelicans,SF,Trey Murphy III,Active
+New Orleans Pelicans,SG,Jordan Poole,Active
+New Orleans Pelicans,PG,Dejounte Murray,Active
+New Orleans Pelicans,BENCH,Herbert Jones,Active
+New Orleans Pelicans,BENCH,Jeremiah Fears,Active
+New Orleans Pelicans,BENCH,Yves Missi,Active
+New Orleans Pelicans,BENCH,Saddiq Bey,Active
+New Orleans Pelicans,BENCH,Jordan Hawkins,Active
+New Orleans Pelicans,BENCH,Micah Peavy,Active
+New Orleans Pelicans,BENCH,Bryce McGowens,Active
+New Orleans Pelicans,BENCH,Jaron Pierre Jr.,Active
+New Orleans Pelicans,BENCH,DeAndre Jordan,Active
+New Orleans Pelicans,BENCH,Bryce McGowens,Active
+New York Knicks,C,Karl-Anthony Towns,Active
+New York Knicks,PF,OG Anunoby,Active
+New York Knicks,SF,Josh Hart,Active
+New York Knicks,SG,Mikal Bridges,Active
+New York Knicks,PG,Jalen Brunson,Active
+New York Knicks,BENCH,Jose Alvarado,Active
+New York Knicks,BENCH,Miles McBride,Active
+New York Knicks,BENCH,Jordan Clarkson,Active
+New York Knicks,BENCH,Andre Drummond,Active
+New York Knicks,BENCH,Landry Shamet,Active
+New York Knicks,BENCH,Tyler Kolek,Active
+New York Knicks,BENCH,Dillon Jones,Active
+New York Knicks,BENCH,Pacome Dadiet,Active
+New York Knicks,BENCH,Mohamed Diawara,Active
+New York Knicks,BENCH,Jeremy Sochan,Active
+Orlando Magic,C,Nikola Vucevic,Active
+Orlando Magic,PF,Paolo Banchero,Active
+Orlando Magic,SF,Franz Wagner,Active
+Orlando Magic,SG,Desmond Bane,Active
+Orlando Magic,PG,Jalen Suggs,Active
+Orlando Magic,BENCH,Anthony Black,Active
+Orlando Magic,BENCH,Wendell Carter Jr.,Active
+Orlando Magic,BENCH,Tristan da Silva,Active
+Orlando Magic,BENCH,Jonathan Isaac,Active
+Orlando Magic,BENCH,Jett Howard,Active
+Orlando Magic,BENCH,Goga Bitadze,Active
+Orlando Magic,BENCH,Jevon Carter,Active
+Orlando Magic,BENCH,Noah Penda,Active
+Orlando Magic,BENCH,Colin Castleton,Active
+Orlando Magic,BENCH,Jamal Cain,Active
+Philadelphia 76ers,C,Joel Embiid,Active
+Philadelphia 76ers,PF,Jaylen Brown,Active
+Philadelphia 76ers,SF,Justin Edwards,Active
+Philadelphia 76ers,SG,VJ Edgecombe,Active
+Philadelphia 76ers,PG,Tyrese Maxey,Active
+Philadelphia 76ers,BENCH,Anfernee Simons,Active
+Philadelphia 76ers,BENCH,Dominick Barlow,Active
+Philadelphia 76ers,BENCH,Adem Bona,Active
+Philadelphia 76ers,BENCH,Dean Wade,Active
+Philadelphia 76ers,BENCH,Jabari Walker,Active
+Philadelphia 76ers,BENCH,Dalen Terry,Active
+Philadelphia 76ers,BENCH,Tyrese Martin,Active
+Philadelphia 76ers,BENCH,Johni Broome,Active
+Philadelphia 76ers,BENCH,Labaron Philon Jr.,Active
+Philadelphia 76ers,BENCH,Trendon Watford,Active
+Phoenix Suns,C,Mark Williams,Active
+Phoenix Suns,PF,Miles Bridges,Active
+Phoenix Suns,SF,Dillon Brooks,Active
+Phoenix Suns,SG,Devin Booker,Active
+Phoenix Suns,PG,Jalen Green,Active
+Phoenix Suns,BENCH,Grayson Allen,Active
+Phoenix Suns,BENCH,Ryan Dunn,Active
+Phoenix Suns,BENCH,Jordan Goodwin,Active
+Phoenix Suns,BENCH,Luke Kennard,Active
+Phoenix Suns,BENCH,Oso Ighodaro,Active
+Phoenix Suns,BENCH,Haywood Highsmith,Active
+Phoenix Suns,BENCH,Collin Gillespie,Active
+Phoenix Suns,BENCH,Pat Spencer,Active
+Phoenix Suns,BENCH,Koa Peat,Active
+Phoenix Suns,BENCH,Rasheer Fleming,Active
+Portland Trail Blazers,C,Donovan Clingan,Active
+Portland Trail Blazers,PF,Toumani Camara,Active
+Portland Trail Blazers,SF,Deni Avdija,Active
+Portland Trail Blazers,SG,Jrue Holiday,Active
+Portland Trail Blazers,PG,Ja Morant,Active
+Portland Trail Blazers,BENCH,Shaedon Sharpe,Active
+Portland Trail Blazers,BENCH,Scoot Henderson,Active
+Portland Trail Blazers,BENCH,Robert Williams III,Active
+Portland Trail Blazers,BENCH,Damian Lillard,Active
+Portland Trail Blazers,BENCH,Sidy Cissoko,Active
+Portland Trail Blazers,BENCH,Blake Wesley,Active
+Portland Trail Blazers,BENCH,Vit Krejci,Active
+Portland Trail Blazers,BENCH,Yang Hansen,Active
+Portland Trail Blazers,BENCH,Jayson Kent,Active
+Portland Trail Blazers,BENCH,Branden Carlson,Active
+Sacramento Kings,C,Domantas Sabonis,Active
+Sacramento Kings,PF,Keegan Murray,Active
+Sacramento Kings,SF,De'Andre Hunter,Active
+Sacramento Kings,SG,Zach LaVine,Active
+Sacramento Kings,PG,Darius Acuff Jr.,Active
+Sacramento Kings,BENCH,Russell Westbrook,Active
+Sacramento Kings,BENCH,Malik Monk,Active
+Sacramento Kings,BENCH,Precious Achiuwa,Active
+Sacramento Kings,BENCH,Maxime Raynaud,Active
+Sacramento Kings,BENCH,Alex Karaban,Active
+Sacramento Kings,BENCH,Drew Eubanks,Active
+Sacramento Kings,BENCH,Nique Clifford,Active
+Sacramento Kings,BENCH,Dylan Cardwell,Active
+Sacramento Kings,BENCH,Isaiah Stevens,Active
+Sacramento Kings,BENCH,Killian Hayes,Active
+San Antonio Spurs,C,Victor Wembanyama,Active
+San Antonio Spurs,PF,Tobias Harris,Active
+San Antonio Spurs,SF,Devin Vassell,Active
+San Antonio Spurs,SG,Stephon Castle,Active
+San Antonio Spurs,PG,De'Aaron Fox,Active
+San Antonio Spurs,BENCH,Dylan Harper,Active
+San Antonio Spurs,BENCH,Keldon Johnson,Active
+San Antonio Spurs,BENCH,Harrison Barnes,Active
+San Antonio Spurs,BENCH,Julian Champagnie,Active
+San Antonio Spurs,BENCH,Luke Kornet,Active
+San Antonio Spurs,BENCH,Carter Bryant,Active
+San Antonio Spurs,BENCH,Jordan McLaughlin,Active
+San Antonio Spurs,BENCH,Jayden Quaintance,Active
+San Antonio Spurs,BENCH,Tarris Reed Jr.,Active
+San Antonio Spurs,BENCH,Ja'Kobi Gillespie,Active
+Oklahoma City Thunder,C,Isaiah Hartenstein,Active
+Oklahoma City Thunder,PF,Chet Holmgren,Active
+Oklahoma City Thunder,SF,Jalen Williams,Active
+Oklahoma City Thunder,SG,Luguentz Dort,Active
+Oklahoma City Thunder,PG,Shai Gilgeous-Alexander,Active
+Oklahoma City Thunder,BENCH,Cason Wallace,Active
+Oklahoma City Thunder,BENCH,Alex Caruso,Active
+Oklahoma City Thunder,BENCH,Jared McCain,Active
+Oklahoma City Thunder,BENCH,Ajay Mitchell,Active
+Oklahoma City Thunder,BENCH,Jaylin Williams,Active
+Oklahoma City Thunder,BENCH,Aday Mara,Active
+Oklahoma City Thunder,BENCH,Kenrich Williams,Active
+Oklahoma City Thunder,BENCH,Bennett Stirtz,Active
+Oklahoma City Thunder,BENCH,Nikola Topic,Active
+Oklahoma City Thunder,BENCH,Thomas Sorber,Active
+Toronto Raptors,C,Jakob Poeltl,Active
+Toronto Raptors,PF,Scottie Barnes,Active
+Toronto Raptors,SF,Brandon Ingram,Active
+Toronto Raptors,SG,RJ Barrett,Active
+Toronto Raptors,PG,Immanuel Quickley,Active
+Toronto Raptors,BENCH,Gradey Dick,Active
+Toronto Raptors,BENCH,Collin Murray-Boyles,Active
+Toronto Raptors,BENCH,Ja'Kobe Walter,Active
+Toronto Raptors,BENCH,Jamal Shead,Active
+Toronto Raptors,BENCH,Trayce Jackson-Davis,Active
+Toronto Raptors,BENCH,Jamison Battle,Active
+Toronto Raptors,BENCH,AJ Lawson,Active
+Toronto Raptors,BENCH,Nate Bittle,Active
+Toronto Raptors,BENCH,Allen Graves,Active
+Toronto Raptors,BENCH,Garrett Temple,Active
+Utah Jazz,C,Jaren Jackson Jr.,Active
+Utah Jazz,PF,Lauri Markkanen,Active
+Utah Jazz,SF,Ace Bailey,Active
+Utah Jazz,SG,Darryn Peterson,Active
+Utah Jazz,PG,Keyonte George,Active
+Utah Jazz,BENCH,Isaiah Collier,Active
+Utah Jazz,BENCH,Kyle Filipowski,Active
+Utah Jazz,BENCH,Brice Sensabaugh,Active
+Utah Jazz,BENCH,Cody Williams,Active
+Utah Jazz,BENCH,Jusuf Nurkić,Active
+Utah Jazz,BENCH,Kevin Love,Active
+Utah Jazz,BENCH,Jaxson Hayes,Active
+Utah Jazz,BENCH,Mo Bamba,Active
+Utah Jazz,BENCH,Svi Mykhailiuk,Active
+Utah Jazz,BENCH,Josh Okogie,Active
+Washington Wizards,C,Alex Sarr,Active
+Washington Wizards,PF,Anthony Davis,Active
+Washington Wizards,SF,Bilal Coulibaly,Active
+Washington Wizards,SG,AJ Dybantsa,Active
+Washington Wizards,PG,Trae Young,Active
+Washington Wizards,BENCH,Deandre Ayton,Active
+Washington Wizards,BENCH,Bub Carrington,Active
+Washington Wizards,BENCH,Cam Whitmore,Active
+Washington Wizards,BENCH,Tre Johnson,Active
+Washington Wizards,BENCH,Kyshawn George,Active
+Washington Wizards,BENCH,Khris Middleton,Active
+Washington Wizards,BENCH,Tristan Vukčević,Active
+Washington Wizards,BENCH,Jamir Watkins,Active
+Washington Wizards,BENCH,Justin Champagnie,Active
+Washington Wizards,BENCH,Anthony Gill,Active
+Free Agents,N/A,DeMar DeRozan,Free Agent
+Free Agents,N/A,Brandon Williams,Free Agent
+Free Agents,N/A,Jonathan Kuminga,Free Agent
+Free Agents,N/A,Jonas Valanciunas,Free Agent
+Free Agents,N/A,Malik Beasley,Free Agent
+Free Agents,N/A,Jaden Ivey,Free Agent
+Free Agents,N/A,Ben Simmons,Free Agent
+Free Agents,N/A,Malcolm Brogdon,Free Agent
+Free Agents,N/A,Micah Potter,Free Agent
+Free Agents,N/A,Guerschon Yabusele,Free Agent
+Free Agents,N/A,Spencer Dinwiddie,Free Agent
+Free Agents,N/A,Cam Thomas,Free Agent
+Free Agents,N/A,Cole Anthony,Free Agent
+Free Agents,N/A,Jeremiah Robinson-Earl,Free Agent
+Free Agents,N/A,Dante Exum,Free Agent
+Free Agents,N/A,Cameron Payne,Free Agent
+Free Agents,N/A,Torrey Craig,Free Agent
+Free Agents,N/A,Vince Williams Jr.,Free Agent
+Free Agents,N/A,Pete Nance,Free Agent
+Free Agents,N/A,DaQuan Jeffries,Free Agent
+Free Agents,N/A,Georges Niang,Free Agent
+Free Agents,N/A,Brandon Boston Jr.,Free Agent
+Free Agents,N/A,Eric Gordon,Free Agent
+Free Agents,N/A,Cody Martin,Free Agent
+Free Agents,N/A,Shake Milton,Free Agent
+Free Agents,N/A,Lonzo Ball,Free Agent
+Free Agents,N/A,Terry Rozier III,Free Agent
+Free Agents,N/A,Keon Johnson,Free Agent
+Free Agents,N/A,Alec Burks,Free Agent
+Free Agents,N/A,Dario Saric,Free Agent
+Free Agents,N/A,Bojan Bogdanovic,Free Agent
+Free Agents,N/A,Garrison Mathews,Free Agent
+Free Agents,N/A,Caleb Houstan,Free Agent
+Free Agents,N/A,Reggie Jackson,Free Agent
+Free Agents,N/A,Damion Lee,Free Agent
+Free Agents,N/A,Delon Wright,Free Agent
+Free Agents,N/A,Bol Bol,Free Agent
+Free Agents,N/A,Chris Boucher,Free Agent
+Free Agents,N/A,Jae Crowder,Free Agent
+Free Agents,N/A,Richaun Holmes,Free Agent
+Free Agents,N/A,Johnny Juzang,Free Agent
+Free Agents,N/A,Cory Joseph,Free Agent
+Free Agents,N/A,Jalen McDaniels,Free Agent
+Free Agents,N/A,Orlando Robinson,Free Agent
+Free Agents,N/A,Ricky Council IV,Free Agent
+Free Agents,N/A,Monte Morris,Free Agent
+Free Agents,N/A,Daniel Theis,Free Agent
+Free Agents,N/A,Jared Butler,Free Agent
+Free Agents,N/A,Kennedy Chandler,Free Agent
+Free Agents,N/A,Malaki Branham,Free Agent
+Free Agents,N/A,Lonnie Walker IV,Free Agent
+Free Agents,N/A,Elfrid Payton,Free Agent
+Free Agents,N/A,Christian Wood,Free Agent
+Free Agents,N/A,Cam Reddish,Free Agent
+Free Agents,N/A,Kessler Edwards,Free Agent
+Free Agents,N/A,Chris Duarte,Free Agent
+Free Agents,N/A,Jaden Springer,Free Agent
+Free Agents,N/A,Jared Rhoden,Free Agent
+Free Agents,N/A,Vlatko Cancar,Free Agent
+Free Agents,N/A,Trevelin Queen,Free Agent
+Free Agents,N/A,Kobe Bufkin,Free Agent
+Free Agents,N/A,Colby Jones,Free Agent
+Free Agents,N/A,Patty Mills,Free Agent
+Free Agents,N/A,Josh Richardson,Free Agent
+Free Agents,N/A,Jeff Dowtin,Free Agent
+Free Agents,N/A,Terence Davis,Free Agent
+Free Agents,N/A,Talen Horton-Tucker,Free Agent
+Free Agents,N/A,P.J. Tucker,Free Agent
+Free Agents,N/A,Terry Taylor,Free Agent
+Free Agents,N/A,Markelle Fultz,Free Agent
+Free Agents,N/A,Lamar Stevens,Free Agent
+Free Agents,N/A,Omer Yurtseven,Free Agent
+Free Agents,N/A,Drew Peterson,Free Agent
+Free Agents,N/A,Chuma Okeke,Free Agent
+Free Agents,N/A,Alex Reese,Free Agent
+Free Agents,N/A,Cole Swider,Free Agent
+Free Agents,N/A,Lester Quinones,Free Agent
+Free Agents,N/A,P.J. Dozier,Free Agent
+Free Agents,N/A,Kevin Knox II,Free Agent
+Free Agents,N/A,Kylor Kelley,Free Agent
+Free Agents,N/A,Johnny Davis,Free Agent
+Free Agents,N/A,Tosan Evbuomwan,Free Agent
+Free Agents,N/A,Jalen Hood-Schifino,Free Agent
+Free Agents,N/A,Maxwell Lewis,Free Agent
+Free Agents,N/A,Oshae Brissett,Free Agent
+Free Agents,N/A,Alex Len,Free Agent
+Free Agents,N/A,Jaylen Nowell,Free Agent
+Free Agents,N/A,JT Thor,Free Agent
+Free Agents,N/A,Stanley Umude,Free Agent
+Free Agents,N/A,Malachi Flynn,Free Agent
+Free Agents,N/A,Kai Jones,Free Agent
+Free Agents,N/A,Bruno Fernando,Free Agent
+Free Agents,N/A,Markieff Morris,Free Agent
+Free Agents,N/A,Jahlil Okafor,Free Agent
+Free Agents,N/A,Cody Zeller,Free Agent
+Free Agents,N/A,Matt Ryan,Free Agent
